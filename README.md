@@ -12,7 +12,9 @@
 
 ![sudo](https://media.discordapp.net/attachments/526810409559261205/683706120799649816/1.png)
 
->  2. Next, you need to activate the virtual environment to run the blocker. To activate, go to the venv directory and type on your
+> 2. Write in the terminal `python3 -m venv venv`![enter image description here](https://cdn.discordapp.com/attachments/526810409559261205/683714291983319044/Screenshot_from_2020-03-01_16-35-58.png)
+
+>  3. Go to the directory of the venv, you need to activate the virtual environment to run the blocker. To activate, go to the venv directory and type on your
 > terminal `source   activate`.
 
 ![active venv](https://media.discordapp.net/attachments/526810409559261205/683706524740223032/2.png)
